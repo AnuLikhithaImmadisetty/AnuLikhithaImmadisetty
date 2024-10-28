@@ -1,4 +1,4 @@
-AnuLikithaImmadisetty/AnuLikithaImmadisetty<h1>Hello, Anu Likhitha Immadisetty!👋</h1>
+<h1>Hello, Anu Likhitha Immadisetty!👋</h1>
 <h3>"Your enthusiasm for pushing the boundaries of Machine Learning Stack is truly remarkable!"🌐</h3>
 
 - 🔭 Currently graduating in SRMAP University
