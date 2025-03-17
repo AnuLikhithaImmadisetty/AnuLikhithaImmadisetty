@@ -8,8 +8,8 @@
 - 🎨 Fun fact, My deep passion for portrait sketching and painting adds a unique charm to my world!
 - 📫 Feel free to reach out at anulikhithaimmadisetty@gmail.com
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/anulikhithaimmadisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anulikhithaimmadisetty" height="30" width="40" /></a>
 <a href="https://medium.com/@anucareer_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anucareer_06" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anucareer_06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anucareer_06" height="30" width="40" /></a>
