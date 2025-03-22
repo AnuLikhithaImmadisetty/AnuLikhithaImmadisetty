@@ -17,10 +17,3 @@
 <a href="https://www.hackerearth.com/@anucareer_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anucareer_06" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anulikhithaimmadisetty_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anulikhithaimmadisetty_06" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anulikhithaimmadisetty&show_icons=true&locale=en&layout=compact" alt="anulikhithaimmadisetty" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anulikhithaimmadisetty&show_icons=true&locale=en" alt="anulikhithaimmadisetty" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anulikhithaimmadisetty&" alt="anulikhithaimmadisetty"  /></p>
