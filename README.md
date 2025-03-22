@@ -17,3 +17,8 @@
 <a href="https://www.hackerearth.com/@anucareer_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anucareer_06" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anulikhithaimmadisetty_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anulikhithaimmadisetty_06" height="30" width="40" /></a>
 </p>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnuLikhithaImmadisetty&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuLikhithaImmadisetty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
