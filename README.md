@@ -4,7 +4,8 @@
 - 🔭 Currently graduating in SRMAP University
 - 📚 Built a foundational understanding of Machine Learning Stack through self-study, expanding my knowledge beyond academic background
 - ⚡ Gained valuable experience as a Data Analyst Intern'24 at DELL Technologies, Bangalore | Logistics Performance Management
-- 🎯 Actively enhancing my expertise in Full Stack Development & Data Structures & Algorithms (DSA) to strengthen my problem-solving skills. 
+- 🎯 Actively enhancing my expertise in Full Stack Development
+- 📌 Currently diving deep into Data Structures & Algorithms (DSA) to strengthen my problem-solving skills
 - 🎨 Fun fact, My deep passion for portrait sketching and painting adds a unique charm to my world!
 - 📫 Feel free to reach out at anulikhithaimmadisetty@gmail.com
   
