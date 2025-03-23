@@ -8,6 +8,7 @@
 - 📌 Currently diving deep into Data Structures & Algorithms (DSA) to strengthen my problem-solving skills
 - 🎨 Fun fact, My deep passion for portrait sketching and painting adds a unique charm to my world!
 - 📫 Feel free to reach out at anulikhithaimmadisetty@gmail.com
+- 📄 Check out my resume: <a href="https://drive.google.com/file/d/1aIep62AJpcU5T8jAiYTQ4D9-8OER7dNp/view" target="_blank">Click here</a>
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
