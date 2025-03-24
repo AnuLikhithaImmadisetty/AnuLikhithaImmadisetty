@@ -1,4 +1,4 @@
-<h3 align="center">Hello, Anu Likhitha Immadisetty!👋</h3>
+<h3 align="center">Heyaa, Anu Likhitha Immadisetty!👋</h3>
 <h3 align="center">"Your enthusiasm for pushing the boundaries of Full Stack & Machine Learning Stack is truly remarkable!"🌐</h3>
 
 - 🔭 Currently graduating in SRMAP University
@@ -20,7 +20,7 @@
 <a href="https://auth.geeksforgeeks.org/user/anulikhithaimmadisetty_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anulikhithaimmadisetty_06" height="30" width="40" /></a>
 </p>
 
-<h3 align="center"> My Stats : </h3>
+<h3 align="center"> My Stats: </h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnuLikhithaImmadisetty&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuLikhithaImmadisetty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
