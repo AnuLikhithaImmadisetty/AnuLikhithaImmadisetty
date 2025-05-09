@@ -9,7 +9,7 @@
 - 🎨 Fun fact, My deep passion for portrait sketching and painting adds a unique charm to my world!
 - 📫 Feel free to reach out at anulikhithaimmadisetty@gmail.com
 - 📄 Check out my resume: <a href="https://drive.google.com/file/d/1IofDNu7yI5SHE-5x4M64Wr7XksfliIpC/view?usp=drivesdk">Click here</a>
-- My first IEEE Publication <a href="https://ieeexplore.ieee.org/document/10973699"Check out here</a>
+- 🔍 My first IEEE Publication <a href="https://ieeexplore.ieee.org/document/10973699">Check out here</a>
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
