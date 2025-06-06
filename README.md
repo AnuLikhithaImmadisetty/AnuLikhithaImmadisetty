@@ -1,5 +1,4 @@
 <h3 align="center">Heyaa, Anu Likhitha Immadisetty!👋</h3>
-<h3 align="center">"Your enthusiasm for pushing the boundaries of Full Stack & Machine Learning Stack is truly remarkable!"🌐</h3>
 
 - 🔭 Currently graduating in SRMAP University
 - 📚 Built a foundational understanding of Machine Learning Stack through self-study, expanding my knowledge beyond academic background
