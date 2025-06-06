@@ -9,16 +9,6 @@
 - 📫 Feel free to reach out at anulikhithaimmadisetty@gmail.com
 - 📄 Check out my resume: <a href="https://drive.google.com/file/d/1IofDNu7yI5SHE-5x4M64Wr7XksfliIpC/view?usp=drivesdk">Click here</a>
 - 🔍 My first IEEE Publication <a href="https://ieeexplore.ieee.org/document/10973699">Check out here</a>
-  
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/anulikhithaimmadisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anulikhithaimmadisetty" height="30" width="40" /></a>
-<a href="https://medium.com/@anucareer_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anucareer_06" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anucareer_06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anucareer_06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anucareer_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anucareer_06" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@anucareer_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anucareer_06" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anulikhithaimmadisetty_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anulikhithaimmadisetty_06" height="30" width="40" /></a>
-</p>
 
 <h3 align="center"> My Stats:  </h3>
 
